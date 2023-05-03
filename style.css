@@ -1,0 +1,37 @@
+a {
+    text-decoration: none;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 50px 0;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 5rem;
+    padding: 0;
+    margin:  0;
+}
+
+.links {
+    padding-left: 30rem;
+}
+
+.logo {
+    color: cyan;
+    font-size: 40px;
+}
+
+button {
+    padding: 10px;
+    border: 0;
+    margin: 10px;
+    border-radius: 10px;
+    background-color:cyan;
+    color: white;
+    font-size: 17px;
+}
