@@ -55,14 +55,13 @@ button {
 }
 
 .hero-container {
-    margin-left: 5rem;
+    margin: 10rem 5rem 10rem;
     color: white;
 }
 
 .hero-main {
     font-size: 3.5rem;
     max-width: 40rem;
-    margin-top: 10rem;
 }
 
 .hero-sub {
