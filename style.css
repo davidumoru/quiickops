@@ -70,3 +70,15 @@ button {
     max-width: 50rem;
     margin: 2rem 0;
 }
+
+input {
+    width: 23rem;
+    height: 2.5rem;
+    border: 0;
+    border-radius: 1rem;
+}
+
+.hero-info {
+    display: flex;
+    gap: 3rem;
+}
