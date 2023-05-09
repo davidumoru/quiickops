@@ -9,6 +9,10 @@ a {
     color: black;
 }
 
+a:hover {
+    color:#00595A
+}
+
 .navbar {
     display: flex;
     justify-content: space-between;
